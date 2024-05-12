@@ -1,0 +1,446 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.nav {
+    height: 70px;
+    border: 2px solid gainsboro;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.logo {
+    height: 25px;
+    width: 160px;
+    margin-left: 120px;
+}
+
+.icona {
+    height: 20px;
+    width: 20px;
+}
+
+.icon-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 70px;
+    width: 350px;
+    margin-right: 120px;
+}
+
+.button1 {
+    border-radius: 99em;
+    border-color: black;
+    background-color: white;
+    font-size: 15px;
+    height: 35px;
+    width: 180px;
+
+}
+
+.button2 {
+    border-radius: 100%;
+    background-color: red;
+    height: 35px;
+    width: 35px;
+    font-size: 20px;
+    color: white;
+}
+
+.style-main {
+    
+    display: flex;
+    flex: 3;
+    
+}
+
+.titolo {
+    max-width: 100%;
+    width: 800px;
+    display: flex;
+    margin: 50px 120px;
+    border: 2px solid grey;
+    
+}
+
+.style-title{
+    font-size: 15px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+.img-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    
+
+}
+
+.logomedium{
+    height: 45px;
+    width: 45px;
+}
+
+.plus{
+    height: 35px;
+    width: 35px;
+}
+
+.logotwitter{
+    height: 20px;
+    width: 20px;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.part2{
+    margin-top: 50px;
+
+}
+
+.testo8{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    
+    
+}
+
+.button-right{
+   margin-top:30px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+
+}
+
+.button7{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    border-radius: 99em;
+    background-color: whitesmoke;
+    height: 40px;
+    width:100px; 
+    margin-bottom: 10px;
+
+}
+
+.testo-twitter{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+
+}
+
+.button3 {
+    border-radius: 99em;
+    border-color: grey;
+    background-color: white;
+    font-size: 14px;
+    height: 38px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+}
+
+.testo4{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    margin-top: 20px;
+    text-decoration:underline;
+}
+
+.logoudacity{
+    width: 60px;
+    height: 30px;
+    border-radius: 20%;
+}
+
+.first-line{
+    display: flex;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 500px;
+    
+}
+
+.sezioni{
+    width: 950px;
+    
+}
+
+.struttura{
+    display: flex;
+    margin-top: 10px;
+    margin-left:120px;
+    
+
+}
+
+.icon2{
+    height: 30px;
+    width: 30px;
+}
+
+.icon3{
+    height: 20px;
+    width: 20px;
+}
+
+.last-line{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.left-line{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.image3{
+    width: 200px;
+    height: 130px;
+    
+}
+
+.testo6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.testo7{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: gray;
+    margin-right: 20px;
+    
+}
+    
+.button-react{
+    border-radius: 99em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    width: 50px;
+    background-color: gainsboro;
+
+}
+
+.testo5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: grey;
+    margin:8px;
+}
+
+.img-navoda{
+    border-radius: 100%;
+    height: 25px;
+    width: 25px;
+    margin: 0 25px;
+}
+
+.button-wd{
+    border-radius: 99em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    width: 130px;
+    background-color: gainsboro;
+
+}
+
+.modulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.button-react{
+    border-radius: 99em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    width: 60px;
+    background-color: gainsboro;
+
+}
+
+.img-divyesh{
+   
+    height: 25px;
+    width: 25px;
+    margin-left: 25px;
+    margin-right: 15px;
+}
+
+.last-line2{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    align-items: center;
+    width: 620px;
+
+}
+
+.logonerd{
+    height: 25px;
+    width: 25;
+    margin-left: 25px;
+    margin-right: 15px;
+}
+
+.part3{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.part4{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fotolessing{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    margin-right: 20px;;
+    object-fit: cover;
+}
+
+.button10{
+    border-radius: 99em;
+    border-color: black;
+    background-color: white;
+    font-size: 15px;
+    height: 35px;
+    width: 70px;
+    margin-right: 40px;
+}
+
+.part5{
+    display: flex;
+}
+
+.textpart3{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.textpart4{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:grey;
+}
+
+.textpart5{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:grey;
+    max-width: 190px;
+}
+
+.testocentrale{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.part6{
+    margin-top: 50px;
+}
+.last-part{
+    display:flex;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    margin-top: 25px;;
+
+}
+
+.logo-aoa{
+    height: 20px;
+    width: 20px;
+    border-radius: 20%;
+    margin-right: 10px;
+}
+
+.testo10{
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.line-data{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.testo9{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: grey;
+    margin-top: 8px;
+}
+
+.fotochrissy {
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    margin-right: 10px;   
+}
+
+.see-all{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: green;
+    margin-top: 30px;
+    
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    justify-content: space-around;
+    max-width: 350px;
+    width:100%;
+    
+}
+
+.list1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: grey;
+    margin: 10px 20px 10px 0px;
+    
+}
